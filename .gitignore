@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+*.log
+.env
+*.tgz
+
+# transitional: old location of the plugin, removed after migration
+plugins/archived-sessions/
