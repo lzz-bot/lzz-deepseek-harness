@@ -1,0 +1,3 @@
+[submodule "plugins/clean-archived-sessions"]
+	path = plugins/clean-archived-sessions
+	url = https://github.com/lzz-bot/dsh-clean-archived-sessions.git
